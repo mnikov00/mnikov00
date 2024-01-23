@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mnikov00
 - 👀 I’m interested in Front-end development.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me - mnikovwork@gmail.com
 
