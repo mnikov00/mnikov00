@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mnikov00
-- 👀 I’m interested in starting internship for Full-stack or Front-end developer.
+- 👀 I’m interested in Front-end development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me - mnikovwork@gmail.com
