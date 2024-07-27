@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mnikov00
-- 👀 I’m interested in Front-end development.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate.
+- 👋 Hi, I’m Martin Nikov;
+- 👀 I’m interested in Software Development of websites, mobile applications and all kinds of software;
+- 🌱 I’m mainly focused on Front-End Development;
+- 💞️ I’m looking to collaborate;
 - 📫 How to reach me - mnikovwork@gmail.com
 
 <!---
